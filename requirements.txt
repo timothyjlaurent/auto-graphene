@@ -1,0 +1,4 @@
+django
+django-filters
+graphene
+graphene-django
